@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.088bf964.css",
+    "main.js": "/static/js/main.f7640fa7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background5.jpg": "/static/media/background5.e651f30f25a161cf2107.jpg",
+    "static/media/background1.jpg": "/static/media/background1.2c45a226b6f5ce26a9da.jpg",
+    "static/media/logo-Iberia.png": "/static/media/logo-Iberia.098ec4916f4a951afcf7.png",
+    "index.html": "/index.html",
+    "main.088bf964.css.map": "/static/css/main.088bf964.css.map",
+    "main.f7640fa7.js.map": "/static/js/main.f7640fa7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088bf964.css",
+    "static/js/main.f7640fa7.js"
+  ]
+}

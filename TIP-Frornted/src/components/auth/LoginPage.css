@@ -1,0 +1,10 @@
+.loginPage {
+    height: 120vh;
+    background-image: url('http://localhost:3001/background5.jpg');
+    background-repeat: no-repeat;
+    margin-top:-64px;
+}
+
+.space {
+    height:50px;
+}
